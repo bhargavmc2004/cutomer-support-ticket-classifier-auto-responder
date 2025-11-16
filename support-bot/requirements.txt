@@ -1,7 +1,10 @@
 # Core dependencies
 streamlit
 huggingface-hub
+python-dotenv 
 python-dotenv
+
+
 pandas
 scikit-learn
 
@@ -23,3 +26,4 @@ numpy
 
 # Web frameworks (optional)
 flask               # if you prefer Flask
+
